@@ -211,7 +211,7 @@ file.close()
 
 **Some common themes:**
 - Deployments are usually ramped up over time.
-- Monitoring performance is key part of production level deployment.
+- Monitoring performance is a key part of production level deployment.
 - Good deployment strategies include the ability to rollback to a previous model.
 
 
@@ -227,7 +227,7 @@ file.close()
 - The model is monitored via specified metrics and is ramped up over time. 
 
 
-### Blue Green Deploymenr
+### Blue Green Deployment
 
 - `Blue` represents a currently deployed model that you would like to replace
 - `Green` represents a new model
